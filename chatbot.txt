@@ -1,0 +1,27 @@
+Machine learning is a subfield of artificial intelligence, which is broadly defined as the capability of a machine to imitate intelligent human behavior. Artificial intelligence systems are used to perform complex tasks in a way that is similar to how humans solve problems.
+
+The goal of AI is to create computer models that exhibit “intelligent behaviors” like humans, according to Boris Katz, a principal research scientist and head of the InfoLab Group at CSAIL. This means machines that can recognize a visual scene, understand a text written in natural language, or perform an action in the physical world.
+
+Machine learning is one way to use AI. It was defined in the 1950s by AI pioneer Arthur Samuel as “the field of study that gives computers the ability to learn without explicitly being programmed.”
+
+The definition holds true, according toMikey Shulman, a lecturer at MIT Sloan and head of machine learning at Kensho, which specializes in artificial intelligence for the finance and U.S. intelligence communities. He compared the traditional way of programming computers, or “software 1.0,” to baking, where a recipe calls for precise amounts of ingredients and tells the baker to mix for an exact amount of time. Traditional programming similarly requires creating detailed instructions for the computer to follow.
+
+But in some cases, writing a program for the machine to follow is time-consuming or impossible, such as training a computer to recognize pictures of different people. While humans can do this task easily, it’s difficult to tell a computer how to do it. Machine learning takes the approach of letting computers learn to program themselves through experience. 
+
+Machine learning starts with data — numbers, photos, or text, like bank transactions, pictures of people or even bakery items, repair records, time series data from sensors, or sales reports. The data is gathered and prepared to be used as training data, or the information the machine learning model will be trained on. The more data, the better the program.
+
+From there, programmers choose a machine learning model to use, supply the data, and let the computer model train itself to find patterns or make predictions. Over time the human programmer can also tweak the model, including changing its parameters, to help push it toward more accurate results. (Research scientist Janelle Shane’s website AI Weirdness is an entertaining look at how machine learning algorithms learn and how they can get things wrong — as happened when an algorithm tried to generate recipes and created Chocolate Chicken Chicken Cake.)
+
+Some data is held out from the training data to be used as evaluation data, which tests how accurate the machine learning model is when it is shown new data. The result is a model that can be used in the future with different sets of data.
+
+Successful machine learning algorithms can do different things, Malone wrote in a recent research brief about AI and the future of work that was co-authored by MIT professor and CSAIL director Daniela Rus and Robert Laubacher, the associate director of the MIT Center for Collective Intelligence.
+
+“The function of a machine learning system can be descriptive, meaning that the system uses the data to explain what happened; predictive, meaning the system uses the data to predict what will happen; or prescriptive, meaning the system will use the data to make suggestions about what action to take,” the researchers wrote.  
+
+There are three subcategories of machine learning:
+
+Supervised machine learning models are trained with labeled data sets, which allow the models to learn and grow more accurate over time. For example, an algorithm would be trained with pictures of dogs and other things, all labeled by humans, and the machine would learn ways to identify pictures of dogs on its own. Supervised machine learning is the most common type used today.
+
+In unsupervised machine learning, a program looks for patterns in unlabeled data. Unsupervised machine learning can find patterns or trends that people aren’t explicitly looking for. For example, an unsupervised machine learning program could look through online sales data and identify different types of clients making purchases.
+
+Reinforcement machine learning trains machines through trial and error to take the best action by establishing a reward system. Reinforcement learning can train models to play games or train autonomous vehicles to drive by telling the machine when it made the right decisions, which helps it learn over time what actions it should take.
